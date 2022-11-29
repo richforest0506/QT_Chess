@@ -1,6 +1,6 @@
-# QT_CHESS
-项目：五子棋
-功能：C++Socket通讯
-开发工具：QT
-这个项目主要用到的技术是tcp的socket通信，实现了客户端与服务器的实时通讯，通过鼠标事件的处理将接收到的数据实时同步到客户端和服务端的界面上,
-该五子棋默认的为黑方先守，即客户端连接服务器之后client端为黑方，server端为白方，采用的是5连即胜
+
+Item: backgammon
+
+Function: C++Socket communication
+
+Development tools: QT The main technology used in this project is tcp socket communication, which realizes the real-time communication between the client and the server, and synchronizes the received data to the interface of the client and server in real time through the processing of mouse events. The default is that the black side defends first, that is, after the client connects to the server, the client side is the black side, and the server side is the white side, and the 5-game winning streak is adopted
