@@ -1,4 +1,4 @@
-# QT_CHESS_TCP
+# QT_CHESS
 项目：五子棋
 功能：C++Socket通讯
 开发工具：QT
